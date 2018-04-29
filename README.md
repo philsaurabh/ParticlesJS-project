@@ -2,7 +2,7 @@
 ParticleJS Web template
 <p>Sources:1. https://github.com/VincentGarreau/particles.js/</p>
 <p>2. https://i.pinimg.com/originals/4c/bb/82/4cbb82f4845e4a3700117d56b3a55c51.png</p>
-<p>Traversy media<a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA"></a></p>
+<p><a href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Traversy media</a></p>
 <h1>Packages install</h1>
 <h2>npm</h2>
 https://www.npmjs.com/package/particles.js
